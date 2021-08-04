@@ -1,0 +1,14 @@
+.env
+.git*
+tests*
+.coverage
+.elasticbeanstalk
+.ebextensions
+.platform
+.vscode
+__pycache__
+.pytest_cache
+.pyre_configuration
+.pyre
+.watchmanconfig
+.flake8
