@@ -31,4 +31,4 @@ ENV NAME World
 
 RUN chmod +x /app/start.sh
 CMD ["/bin/sh"]
-#ENTRYPOINT ["/app/start.sh"]
+ENTRYPOINT ["/app/start.sh"]
